@@ -1,0 +1,27 @@
+/*2*/
+body {
+    background-color: blue;
+}
+
+/*this styles everything within the css-classes class*/
+.css-classes {
+    background-color: rgba(187, 185, 185, 0.685); font-family: cursive;
+}
+
+/*this styles all the h1 tags within the css-classes class*/
+.css-classes h1{
+    font-size: 18px; border: red 8px solid; font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/*this styles all the p tags within the css-classes class*/
+.css-classes p{
+    font-size: 16px;
+    color: green;
+
+}
+
+/*this styles all the li items within the css-classes class*/
+.css-classes li{
+    color: navy;
+}

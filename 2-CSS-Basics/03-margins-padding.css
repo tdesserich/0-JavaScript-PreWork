@@ -1,0 +1,22 @@
+/* 1 */
+h1{
+    text-align: left;
+    margin-left: 25px;
+}
+
+/* 4 */
+.margins-padding{
+  border:2px solid blue;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+
+  /*margin: 50px 250px 200px 200px;*/
+  
+#padding-experiment1{
+    margin: 50px 250px 200px 200px;
+    padding: 100px 100px 100px 100px;
+    border: 6px solid violet;
+}
